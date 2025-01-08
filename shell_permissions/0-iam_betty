@@ -1,8 +1,4 @@
-# Create the script file and add the necessary command
+mkdir linux_permissions_project
+cd linux_permissions_project
 echo -e "#!/bin/bash\nsu betty" > 0-iam_betty
-
-# Make the script executable
 chmod +x 0-iam_betty
-
-# Run the script
-./0-iam_betty
