@@ -1,5 +1,2 @@
 #!/bin/bash
 whoami
-echo -e "#!/bin/bash\nwhoami" > 1-who_am_i
-chmod +x 1-who_am_i
-./1-who_am_i
