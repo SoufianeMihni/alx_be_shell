@@ -1,9 +1,2 @@
 #!/bin/bash
-whoami
-
-#!/bin/bash
-id -un
-
-nano 1-who_am_i
-chmod +x 1-who_am_i
-./1-who_am_i
+echo "$(whoami)"
