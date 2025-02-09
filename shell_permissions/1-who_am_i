@@ -1,2 +1,2 @@
-sh 1-who_am_i
-bash 1-who_am_i
+#!/bin/bash
+whoami
