@@ -1,2 +1,2 @@
-#!/bin/bash
-echo "$(whoami)"
+sh 1-who_am_i
+bash 1-who_am_i
